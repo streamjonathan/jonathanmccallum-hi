@@ -3,7 +3,7 @@ title: "संगीत और विश्वास"
 date: 2026-11-23
 slug: music-and-faith
 draft: false
-shareImage: /images/music-faith/sonreal.jpg
+shareImage: /images/music-faith/kennethsilway.jpg
 ---
 
 मैं Instagram पर संगीतकारों को सुनने में बहुत समय बिताता हूँ। ये कुछ ऐसे हैं जिन्हें मैं इन दिनों सुन रहा हूँ।
@@ -14,70 +14,68 @@ shareImage: /images/music-faith/sonreal.jpg
 
 ये सब भजन नहीं गा रहे। इनमें से ज़्यादातर बस ज़िंदगी के बारे में गा रहे हैं, और विश्वास उसका हिस्सा है। मुझे यही बात इनमें पसंद है। गाना सुनने के लिए Instagram पर कार्ड पर टैप करें।
 
-मैंने SonReal के नए गाने पर एक रिएक्शन वीडियो भी बनाया है। आप उसे यहाँ देख सकते हैं:
-
-[SonReal के नए वीडियो पर मेरी प्रतिक्रिया](https://www.youtube.com/shorts/wePjZMr6beE)
+ये गाने हिंदी में हैं। ये हिंदी में गाने वाले संगीतकार हैं — कोई भजन गा रहा है, कोई ज़िंदगी के बारे में गा रहा है, और विश्वास उसका हिस्सा है।
 
 <div class="ig-grid">
-<a class="ig-card" href="https://www.instagram.com/reel/DgBgmKwB84s/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/sonreal.jpg" alt="SonReal" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">SonReal</span>
-<span class="ig-card__note">एक मज़ेदार, उम्मीद भरा रैप — अच्छा संगीत सुनते ही पहचानने के बारे में। किसी किताब को उसके आवरण से मत आँकिए।</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Dac_1RZq_KB/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/kennethsilway.jpg" alt="Kenneth Silway" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Kenneth Silway</span>
+<span class="ig-card__note">हिंदी में भजन — “है तुझसा कोई नहीं”।</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgDnpYFAUjr/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/tamzene.jpg" alt="Tamzene" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Tamzene</span>
-<span class="ig-card__note">“I'll save you a seat.” एक हल्का-सा गाना, और एक खुली कुर्सी।</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DVdjPd2k_VU/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/anjali_yadav_masih.jpg" alt="Anjali Yadav" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Anjali Yadav</span>
+<span class="ig-card__note">हिंदी में यीशु की स्तुति का गाना।</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df5X6L3K-3W/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/lilyfittsmusic.jpg" alt="Lily Fitts" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Lily Fitts</span>
-<span class="ig-card__note">उनका गाना “Notice” आखिरकार आ गया है, पहली बार बजाने के एक साल से भी ज़्यादा बाद।</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DUdTQS8DO79/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/worshipper_kajal_masih.jpg" alt="Kajal Masih" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Kajal Masih</span>
+<span class="ig-card__note">हिंदी में यीशु के गाने गाती हैं।</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgE-ybeI6ko/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/fatheringstarlings.jpg" alt="Fathering Starlings" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Fathering Starlings</span>
-<span class="ig-card__note">“Your Heart in the Fire” — उत्तर से लो-फ़ाई फ़ोक, ईमानदार, सच्चा और बिना सजावट के।</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DUXVLW_gVz9/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/singer_sunny_samuel.jpg" alt="Sunny Samuel" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Sunny Samuel</span>
+<span class="ig-card__note">हिंदी भक्ति गीत — “मेरे सिर पे यहोवा वाला हाथ”।</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfkSMZhpium/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/naterosemusic.jpg" alt="Nate Rose" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Nate Rose</span>
-<span class="ig-card__note">उन्होंने पिछले साल अपना जीवन परमेश्वर को दे दिया। अब वे अपनी कहानी बताना चाहते हैं, और उसी में उनकी स्तुति करना चाहते हैं।</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DDRq_-wpNPq/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/twinkle_masih909.jpg" alt="Twinkle Masih" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Twinkle Masih</span>
+<span class="ig-card__note">हिंदी में यीशु की स्तुति के गाने।</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/p/DgBMyeNkkyO/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/ostonmusic.jpg" alt="OSTON" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">OSTON</span>
-<span class="ig-card__note">उनका नया गाना “Not Alone”, और सैन फ़्रांसिस्को में एक कमरा जहाँ हर कोई हर शब्द गा रहा है।</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DTFCqR6khY6/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/howworshiper_naina.jpg" alt="Naina" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Naina</span>
+<span class="ig-card__note">हिंदी में भजन — जीवन भर यहोवा के लिए गीत।</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df1qtokoyBh/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/kenta_dedachi.jpg" alt="Kenta Dedachi" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Kenta Dedachi</span>
-<span class="ig-card__note">“Secret Fort” — चर्च के पीछे बचपन के दिन, शाम की घंटियाँ, सबसे अच्छे दोस्त और काल्पनिक दुनियाएँ।</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DSh_xtSiYg5/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/paul7even.jpg" alt="Paul 7" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Paul 7</span>
+<span class="ig-card__note">हिंदी में यीशु के पास रहने का गाना।</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DfCRnSiPXa5/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/jeffarrandale.jpg" alt="Jeff Arrandale" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Jeff Arrandale</span>
-<span class="ig-card__note">लूका 15 से एक नया गाना, उड़ाऊ पुत्र की कहानी। “Let Me Go”।</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DKyWQxZoSYo/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/shubham_kamble_official_.jpg" alt="Shubham Kamble" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Shubham Kamble</span>
+<span class="ig-card__note">हिंदी में सुसमाचार के गाने।</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df71X0lzZsN/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/allison_eide.jpg" alt="Allison Eide" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Allison Eide</span>
-<span class="ig-card__note">“Jesus is kind. Tour is a gift.” उनके गाने, घर पर बजाए गए।</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DVoTB2uCffs/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/monika_mundu.jpg" alt="Monika Mundu" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Monika Mundu</span>
+<span class="ig-card__note">हिंदी में ईस्टर का गाना — “चेहरा प्रभु का”।</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgD31mXBDcn/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/rachelpurcellmusic.jpg" alt="Rachel Purcell" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Rachel Purcell</span>
-<span class="ig-card__note">उनका गाना “keep going” — सपनों जैसा पुराना यीशु-संगीत, अब बाहर है।</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DdUCe0BhV-F/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/skmasihworship.jpg" alt="SK Masih" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">SK Masih</span>
+<span class="ig-card__note">हिंदी में यीशु की आराधना के गाने।</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/Df9vziqCJtC/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/haleyjonesofficial.jpg" alt="Haley Jones" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Haley Jones</span>
-<span class="ig-card__note">“Everybody knows somebody who needs to hear about Jesus.”</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/DZIjpllSOaz/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/rozi_christ25.jpg" alt="Rajni Dagla" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Rajni Dagla</span>
+<span class="ig-card__note">हिंदी में यीशु के गाने — फिलिप्पियों 4:13।</span></span>
 </a>
-<a class="ig-card" href="https://www.instagram.com/reel/DgAmATaizM0/" target="_blank" rel="noopener">
-<img class="ig-card__img" src="/images/music-faith/gracegrabermusic.jpg" alt="Grace Graber" loading="lazy" width="150" height="150">
-<span class="ig-card__text"><span class="ig-card__name">Grace Graber</span>
-<span class="ig-card__note">उनकी मानसिक सेहत की यात्रा के बारे में गाने। और वे पॉप पंक भी हैं।</span></span>
+<a class="ig-card" href="https://www.instagram.com/reel/Df7Dq9TsgnA/" target="_blank" rel="noopener">
+<img class="ig-card__img" src="/images/music-faith/singer_nitish_halchal_masih_.jpg" alt="Nitish Kumar Yadav" loading="lazy" width="150" height="150">
+<span class="ig-card__text"><span class="ig-card__name">Nitish Kumar Yadav</span>
+<span class="ig-card__note">हिंदी में मसीही गाने — “जय मसीह”।</span></span>
 </a>
 </div>
 
